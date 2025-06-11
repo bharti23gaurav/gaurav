@@ -1,6 +1,18 @@
-Thanks for downloading this template!
+# My Portfolio
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is my personal portfolio website.
+
+## 🔗 Live Link
+[Click here to view my portfolio](https://bharti23gaurav.github.io/my-portfolio/)
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+## 👨‍💻 About Me
+I am passionate about web development and this is my portfolio to showcase my skills and projects.
+
+## 📞 Contact
+- Email: gauravbharti5167@gmail.com
